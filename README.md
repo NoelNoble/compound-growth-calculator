@@ -1,4 +1,4 @@
-# compound-growth-calculator
+
 # Compound Growth Calculator
 
 A small Python program that calculates how a number changes when it is repeatedly increased or decreased by a percentage.
