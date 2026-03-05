@@ -67,7 +67,7 @@ elif w == 2:
 else:
    print("Invalid choice")   
    
-print("The answer is -" , x)
+print("The answer is :" , x)
 ```
 
 ---
@@ -84,7 +84,7 @@ Percentage increase: 5
 Output:
 
 ```
-The answer is - 115.7625
+The answer is : 115.7625
 ```
 
 ---
