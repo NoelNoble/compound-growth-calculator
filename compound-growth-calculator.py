@@ -26,4 +26,5 @@ elif w == 2:
 else:
    print("Invalid choice")   
    
-print("The answer is -" , x)
+
+print("The answer is :" , x)
