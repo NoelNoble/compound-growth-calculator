@@ -97,5 +97,5 @@ The answer is : 115.7625
 ---
 
 ## Author
+**Noel**
 
-Made as a simple Python practice project.
